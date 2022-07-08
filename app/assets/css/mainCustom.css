@@ -977,7 +977,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 14px;
     background: #4bad48;
     border-radius: 7px;
-    border: 2px solid #f5f7fa;
+    border: 2px solid #ffffff;
     bottom: -4px;
     right: -4px;
 }
@@ -986,7 +986,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .app-sidebar .logo.logo-sm {
     padding: 15px 33px;
-    background: #fff;
+    background: #ffffff;
 }
 
 .app-sidebar .logo.logo-sm a {

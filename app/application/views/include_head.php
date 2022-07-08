@@ -27,7 +27,7 @@
                 <a href="<?= base_url('contacts') ?>" class="active"><i class="material-icons-two-tone">contacts</i>Contact Number</a>
             </li>
             <li>
-                <a href="<?= base_url('blast') ?>" class="active"><i class="material-icons-two-tone">question_answer</i>Broadcast</a>
+                <a href="<?= base_url('blast') ?>" class="active"><i class="material-icons-two-tone">question_answer</i>Broadcast Message</a>
             </li>
             <li>
                 <a href="<?= base_url('schedule') ?>" class="active"><i class="material-icons-two-tone">schedule</i>Scheduled Message</a>

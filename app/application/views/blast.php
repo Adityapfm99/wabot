@@ -70,7 +70,7 @@
                         <div class="row">
                             <div class="col">
                                 <div class="page-description p-0">
-                                    <h4><?= $title ?></h4>
+                                    <h4><?= 'Broadcast Message' ?></h4>
                                 </div>
                             </div>
                         </div>
