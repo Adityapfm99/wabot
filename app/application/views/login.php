@@ -14,7 +14,7 @@
     <link href="<?= _assets() ?>/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?= _assets() ?>/plugins/perfectscroll/perfect-scrollbar.css" rel="stylesheet">
     <link href="<?= _assets() ?>/plugins/pace/pace.css" rel="stylesheet">
-    <link href="<?= _assets() ?>/css/main.min.css" rel="stylesheet">
+    <link href="<?= _assets() ?>/css/mainCustom.css" rel="stylesheet">
     <link href="<?= _assets() ?>/css/custom.css" rel="stylesheet">
 </head>
 
@@ -25,7 +25,7 @@
         </div>
         <div class="app-auth-container">
             <div class="logo">
-                <a style="background: url(<?= _assets('images/seller.png') ?>) no-repeat; height: 60px" href="#">PLEASE SIGN IN</a>
+                <a style="background: url(<?= _assets('images/seller.png') ?>) no-repeat;color:white; height: 60px" href="#">PLEASE SIGN IN</a>
             </div>
             <p class="auth-description">Please sign-in to your account and continue to the dashboard.</p>
             <?= _alert() ?>

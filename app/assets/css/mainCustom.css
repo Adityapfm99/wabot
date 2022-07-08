@@ -29,7 +29,7 @@ html {
 }
 
 body {
-    background-color: #E7ECF8;
+    background-color: #3aad6f;
     font-weight: normal;
     color: #24292e;
     line-height: 1.6;
@@ -62,7 +62,7 @@ menu {
 
 body, span, text, a {
     font-family: 'Poppins', sans-serif;
-    color: #F1F4F7;
+    /* color: #ffffff; */
 }
 
 a:hover, a:active, a:focus {
@@ -702,7 +702,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 70px;
     padding: 0 15px;
     border-radius: 10px;
-    background-color: #fff;
+    background-color: #3aad6f;
     box-shadow: 0px 0px 11px 1px rgba(0, 0, 0, 0.05);
     -webkit-box-shadow: 0px 0px 11px 1px rgba(0, 0, 0, 0.05);
     -moz-box-shadow: 0px 0px 11px 1px rgba(0, 0, 0, 0.05);
@@ -866,7 +866,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .app-sidebar {
     width: 280px;
-    background-color: #fff;
+    background-color: rgb(1, 1, 1);
     height: 100vh;
     position: fixed;
     padding: 0;
@@ -884,7 +884,7 @@ h1, h2, h3, h4, h5, h6 {
     overflow: hidden;
     padding: 45px 28px;
     position: relative;
-    background-color: #f5f7fa;
+    background-color: #3aad6f;
     -webkit-transition: opacity .2s ease-in-out;
     -moz-transition: opacity .2s ease-in-out;
     -o-transition: opacity .2s ease-in-out;
@@ -1025,7 +1025,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .app-menu>ul>li>a {
     text-decoration: none;
-    color: #40475c;
+    color: #ececef;
     font-size: 14px;
     margin: 3px 15px;
     padding: 10px 15px;
@@ -1099,7 +1099,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 20px 15px 10px 30px;
     font-weight: 700;
     text-transform: uppercase;
-    color: #40475c;
+    color: #ffffff;
     font-size: 12px;
     opacity: .35;
     font-family: 'Montserrat', sans-serif;

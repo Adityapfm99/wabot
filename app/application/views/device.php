@@ -14,7 +14,7 @@
     <link href="<?= _assets() ?>/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?= _assets() ?>/plugins/perfectscroll/perfect-scrollbar.css" rel="stylesheet">
     <link href="<?= _assets() ?>/plugins/pace/pace.css" rel="stylesheet">
-    <link href="<?= _assets() ?>/css/main.min.css" rel="stylesheet">
+    <link href="<?= _assets() ?>/css/mainCustom.css" rel="stylesheet">
     <link href="<?= _assets() ?>/css/custom.css" rel="stylesheet">
 </head>
 
