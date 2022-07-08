@@ -1,6 +1,6 @@
 <div class="app-sidebar">
-    <div class="logo">
-        <a href="#" class="logo-icon" style="background: url('https://www.tanjunglesung.com/wp-content/uploads/2018/12/logo-wa-whatsapp.png') no-repeat; background-position: center center;background-size: 35px;"><span class="logo-text">BIG SELLER</span></a>
+    <div class="logo">  
+        <a href="#" class="logo-icon" style="background: url('../images/favicon.png') no-repeat; background-position: center center;background-size: 35px;"><span class="logo-text">BIG SELLER</span></a>
         <div class="sidebar-user-switcher user-activity-online">
             <a href="#">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/User-avatar.svg/1024px-User-avatar.svg.png">
@@ -18,7 +18,7 @@
                 <a href="<?= base_url('home') ?>" class="active"><i class="material-icons-two-tone">dashboard</i>Dashboard</a>
             </li>
             <li class="sidebar-title">
-                Main Fitur
+                Main Features
             </li>
             <li>
                 <a href="<?= base_url('autoresponder') ?>" class="active"><i class="material-icons-two-tone">message</i>Auto Reply</a>

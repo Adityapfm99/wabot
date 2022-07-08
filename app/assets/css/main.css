@@ -6375,7 +6375,7 @@ span.flatpickr-weekday {
 .app-auth-container {
     height: 100vh;
     width: 650px;
-    background: #fff;
+    background: #505050;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -6407,15 +6407,16 @@ span.flatpickr-weekday {
 }
 
 .app-auth-sign-in .app-auth-background {
-    background: url('../images/backgrounds/bigseller.png') no-repeat;
+    background: url('../images/favicon.png') no-repeat;
     background-size: 60%;
     background-position: center;
 }
 
 
 .app-auth-sign-up .app-auth-background {
-    background: url('../images/backgrounds/bigseller.png') no-repeat;
+    background: url('../images/backgrounds/seller.png') no-repeat;
     background-size: 60%;
+    background-color: 'black';
     background-position: center;
 }
 
@@ -6440,7 +6441,7 @@ span.flatpickr-weekday {
 
 .app-auth-container .auth-description {
     margin: 30px 0;
-    color: #909aa7;
+    color: #ffff;
 }
 
 .app-auth-container .auth-submit .auth-forgot-password {

@@ -25,7 +25,7 @@
         </div>
         <div class="app-auth-container">
             <div class="logo">
-                <a style="background: url(<?= _assets('images/velixs.png') ?>) no-repeat; height: 60px" href="#">WA GATEWAY BOY</a>
+                <a style="background: url(<?= _assets('images/seller.png') ?>) no-repeat; height: 60px" href="#">PLEASE SIGN IN</a>
             </div>
             <p class="auth-description">Please sign-in to your account and continue to the dashboard.</p>
             <?= _alert() ?>

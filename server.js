@@ -54,7 +54,7 @@ async function startDEVICE(idevice) {
     const chika = chikaConnect({
         logger: pino({ level: 'silent' }),
         printQRInTerminal: true,
-        browser: ['LembayungDeveloper', 'Safari', '1.0.0'],
+        browser: ['BigSeller', 'Safari', '1.0.0'],
         auth: state
     })
     store.bind(chika.ev)
